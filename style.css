@@ -1,0 +1,16 @@
+.container{
+    width: 980px; /*ширина области*/
+    margin: 0 auto; /*по вертикали | по горизонтали*/
+}
+
+.mainHeader {
+    font-size: 36px; /*размер шрифта в пикселях*/
+    font-weight: 600; /*начертание шрифта*/
+}
+
+.indentText{
+    line-height: 150%; /*отступы между строк*/
+}
+.lockHeedBlackbird{
+    width: 75%; /*ширина области*/
+}
